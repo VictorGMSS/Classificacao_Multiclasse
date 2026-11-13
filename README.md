@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Classifica-o_multiclasse/blob/main/classificacao_multiclasse.ipynb)
 
-Projeto prático desenvolvido durante o curso **"Classificação: Resolvendo problemas multiclasse"**. O objetivo deste repositório é prever o desfecho acadêmico de estudantes (**Desistente**, **Graduado** ou **Matriculado**), aplicando análise exploratória, pré-processamento, modelagem com **Random Forest**, balanceamento de classes com **SMOTE** e validação correta por meio de um **pipeline** com validação cruzada.
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é prever o desfecho acadêmico de estudantes (**Desistente**, **Graduado** ou **Matriculado**), aplicando análise exploratória, pré-processamento, modelagem com **Random Forest**, balanceamento de classes com **SMOTE** e validação correta por meio de um **pipeline** com validação cruzada.
 
 ---
 
